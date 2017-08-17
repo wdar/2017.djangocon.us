@@ -1,4 +1,5 @@
 # 2017.djangocon.us Website
+hi there!
 
 [![Build Status](https://travis-ci.org/djangocon/2017.djangocon.us.svg?branch=master)](https://travis-ci.org/djangocon/2017.djangocon.us) [![Contributors](https://img.shields.io/github/contributors/djangocon/2017.djangocon.us.svg)](https://github.com/djangocon/2017.djangocon.us/graphs/contributors)
 
@@ -108,7 +109,7 @@ $ git push origin master
 
 You will then resume the process at step 6 to submit a pull request.
 
-If you plan to continue working locally and submitting pull requests, you may want to add an upstream remote locally that points to DjangoCon U.S., in order to fetch changes. You may also want to consider creating a feature branch (also known as a "topic" branch), making your changes there (instead of in the master branch), pushing to GitHub and submitting the update via pull request. You can then keep your master branch up-to-date while working on multiple features. 
+If you plan to continue working locally and submitting pull requests, you may want to add an upstream remote locally that points to DjangoCon U.S., in order to fetch changes. You may also want to consider creating a feature branch (also known as a "topic" branch), making your changes there (instead of in the master branch), pushing to GitHub and submitting the update via pull request. You can then keep your master branch up-to-date while working on multiple features.
 
 ### Adding Contributors
 
